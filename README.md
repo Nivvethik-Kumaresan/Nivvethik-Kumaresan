@@ -23,7 +23,7 @@ I am a dedicated Computer Science student at the **Informatics Institute of Tech
 * Building a **Flutter** mobile app for WHO growth tracking and vaccination scheduling.
 * Managing a **Dockerized CI/CD pipeline** for seamless deployment to Render.
 
-  #### 🔍 [ResearchSync AI](https://github.com/Nivvethik-Kumaresan/researchsync) | Real-time Knowledge Retrieval
+#### 🔍 [ResearchSync AI](https://github.com/Nivvethik-Kumaresan/researchsync) | Real-time Knowledge Retrieval Bot (Ongoing)
 **Role:** Solo Developer
 * Architected an **asynchronous Gemini-powered FastAPI engine** optimized for sub-second latency.
 * Designed a cloud-native architecture using **SQLite and Render** for efficient persistence.

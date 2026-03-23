@@ -1,4 +1,4 @@
-Hi, I'm Nivve! 👋
+Hi, I'm Nivvethik! 👋
 
 Full Stack Developer | AI & DevOps Enthusiast
 
@@ -34,4 +34,4 @@ I am a dedicated Computer Science student at the **Informatics Institute of Tech
 
 * 📍 **Location:** Colombo, Sri Lanka
 * 📧 **Email:** [nivvethik.k@gmail.com](mailto:nivvethik.k@gmail.com)
-* 💼 **LinkedIn:** [Kumaresan Nivvethik](https://www.linkedin.com/in/yourprofile)
+* 💼 **LinkedIn:** [Kumaresan Nivvethik](https://www.linkedin.com/in/nivvethik-kumaresan)

@@ -1,6 +1,6 @@
 Hi, I'm Nivve! 👋
 
-Full Stack Developer | Level 5 Batch Representative | AI & DevOps Enthusiast
+Full Stack Developer | AI & DevOps Enthusiast
 
 I am a dedicated Computer Science student at the **Informatics Institute of Technology (IIT)**,  I balance technical development with leadership and peer coordination. My passion lies in building meaningful, scalable systems—specifically in **Data Science** and **Backend Engineering**.
 

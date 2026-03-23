@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I'm Nivve! 👋
 
-<!--
-**Nivvethik-Kumaresan/Nivvethik-Kumaresan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Level 5 Batch Representative | AI & DevOps Enthusiast
 
-Here are some ideas to get you started:
+I am a dedicated Computer Science student at the **Informatics Institute of Technology (IIT)**,  I balance technical development with leadership and peer coordination. My passion lies in building meaningful, scalable systems—specifically in **Data Science** and **Backend Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+
+* **Languages:** Python, Java, JavaScript (ES6+), HTML5, CSS3
+* **Frameworks & APIs:** FastAPI, Flutter, Gemini AI, Groq LLM
+* **Data & DevOps:** SQL, Docker, GitHub Actions (CI/CD), Render, Firebase
+* **Core Strengths:** Teamwork, Communication, and Analytical Problem Solving
+
+---
+
+### 🚀 Key Projects
+
+#### 🏥 [Growise](https://github.com/anadichiransa/Growise) | AI-Powered Healthcare Platform (Ongoing)
+**Role:** Full-Stack Developer & DevOps Lead
+* Developing an **AI-driven RAG system** (FastAPI + ChromaDB) to provide localized healthcare advice based on Sri Lankan guidelines.
+* Building a **Flutter** mobile app for WHO growth tracking and vaccination scheduling.
+* Managing a **Dockerized CI/CD pipeline** for seamless deployment to Render.
+
+  #### 🔍 [ResearchSync AI](https://github.com/Nivvethik-Kumaresan/researchsync) | Real-time Knowledge Retrieval
+**Role:** Solo Developer
+* Architected an **asynchronous Gemini-powered FastAPI engine** optimized for sub-second latency.
+* Designed a cloud-native architecture using **SQLite and Render** for efficient persistence.
+
+---
+
+### 📊 Stats & Activity
+
+![Nivve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 📫 Reach Out
+
+* 📍 **Location:** Colombo, Sri Lanka
+* 📧 **Email:** [nivvethik.k@gmail.com](mailto:nivvethik.k@gmail.com)
+* 💼 **LinkedIn:** [Kumaresan Nivvethik](https://www.linkedin.com/in/yourprofile)

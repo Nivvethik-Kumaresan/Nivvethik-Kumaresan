@@ -30,13 +30,6 @@ I am a dedicated Computer Science student at the **Informatics Institute of Tech
 
 ---
 
-### 📊 Stats & Activity
-
-![Nivve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ### 📫 Reach Out
 
 * 📍 **Location:** Colombo, Sri Lanka

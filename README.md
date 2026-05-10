@@ -9,7 +9,7 @@ I am a dedicated Computer Science student at the **Informatics Institute of Tech
 ### 🛠️ Technical Toolkit
 
 * **Languages:** Python, Java, JavaScript (ES6+), HTML5, CSS3
-* **Frameworks & APIs:** FastAPI, Flutter, Gemini AI, Groq LLM
+* **Frameworks & APIs:** FastAPI, Flutter
 * **Data & DevOps:** SQL, Docker, GitHub Actions (CI/CD), Render, Firebase
 * **Core Strengths:** Teamwork, Communication, and Analytical Problem Solving
 

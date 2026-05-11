@@ -17,7 +17,7 @@ I am a dedicated Computer Science student at the **Informatics Institute of Tech
 
 ### 🚀 Key Projects
 
-#### 🏥 [Growise](https://github.com/anadichiransa/Growise) | AI-Powered Healthcare Platform (Ongoing)
+#### 🏥 [Growise](https://github.com/anadichiransa/Growise) | AI-Powered Healthcare Platform
 **Role:** Full-Stack Developer & DevOps Lead
 * Developing an **AI-driven RAG system** (FastAPI + ChromaDB) to provide localized healthcare advice based on Sri Lankan guidelines.
 * Building a **Flutter** mobile app for WHO growth tracking and vaccination scheduling.
